@@ -12,7 +12,7 @@ This project uses the VGGT deep learning model to predict depth maps and reconst
 ## Example Output
 
 Predicted Depth Map:
-![Predicted Depth Map](images/predicted_depth_main2.png)
+![Predicted Depth Map](predicted_depth_main2.png)
 
 See [`Project Documentation.pdf`](Project_Documentation.pdf) for full workflow and instructions.
 
