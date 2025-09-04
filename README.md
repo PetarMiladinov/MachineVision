@@ -14,7 +14,7 @@ This project uses the VGGT deep learning model to predict depth maps and reconst
 Predicted Depth Map:
 ![Predicted Depth Map](images/predicted_depth_main2.png)
 
-See ![`Project Documentation.pdf`](Project Documentation.pdf) for full workflow and instructions.
+See [`Project Documentation.pdf`](Project_Documentation.pdf) for full workflow and instructions.
 
 ## Files Included
 - `main.py`: Script for image processing, depth prediction, 3D point map extraction, and volume estimation of a single object with given reference.
